@@ -9,17 +9,17 @@ import {
 } from "react-icons/bs";
 
 export const SocialMediaProfiles = [
-  {
-    title: "Youtube",
-    href: "https://www.youtube.com/@reactjsBD/",
-    icon: BsYoutube,
-  },
-  { title: "GitHub", href: "https://github.com/noorjsdivs/", icon: BsGithub },
-  {
-    title: "Facebook",
-    href: "https://www.facebook.com/Noorlalu143/",
-    icon: BsFacebook,
-  },
+  // {
+  //   title: "Youtube",
+  //   href: "https://www.youtube.com/@reactjsBD/",
+  //   icon: BsYoutube,
+  // },
+  // { title: "GitHub", href: "https://github.com/noorjsdivs/", icon: BsGithub },
+  // {
+  //   title: "Facebook",
+  //   href: "https://www.facebook.com/Noorlalu143/",
+  //   icon: BsFacebook,
+  // },
   {
     title: "Instagram",
     href: "https://www.linkedin.com/in/noor-mohammad-ab2245193/",
