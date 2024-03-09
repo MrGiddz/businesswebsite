@@ -17,7 +17,7 @@ const Services = () => {
         <p>
           As long as those opportunities involve giving us money to re-purpose
           old projects — we can come up with an endless number of those.
-        </p> 
+        </p>
       </SectionIntro>
       <Container className="mt-16">
         <div className="lg:flex lg:items-center lg:justify-end">
@@ -40,6 +40,12 @@ const Services = () => {
             <ListItem title="Application development">
               We have a team of skilled developers who are experts in the latest
               app frameworks, like Angular 1 and Google Web Toolkit.
+            </ListItem>
+            <ListItem title="Telehealth Services">
+              For our Telehealth Services, we offer cutting-edge virtual care
+              solutions facilitated by experienced healthcare professionals and
+              advanced technology, ensuring accessible and high-quality
+              healthcare experiences for all
             </ListItem>
             <ListItem title="E-commerce">
               We are at the forefront of modern e-commerce development. Which
