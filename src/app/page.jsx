@@ -20,7 +20,7 @@ export default function Home() {
           Transforming Tomorrow
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-          Elevate Your World with Cutting-Edge Solutions
+          At the intersection of design and technology, our team thrives amidst innovation&arpos;s dynamic landscape. Join us to redefine possibilities in digital solutions, education, and telehealth services."
           </p>
         </FadeIn>
         <StylizedImage
