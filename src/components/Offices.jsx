@@ -22,9 +22,9 @@ const Offices = ({ invert = false, ...props }) => {
     <ul role="list" {...props}>
       <li>
         <Office name="Lagos Nigeria" invert={invert}>
-          Shitta
+          No1, Lucina Joseph Street,
           <br />
-          Surulere, Lsgos Nigeria.
+          Surulere, Lagos.
         </Office>
       </li>
       {/* <li>
