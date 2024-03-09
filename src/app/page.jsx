@@ -17,8 +17,11 @@ export default function Home() {
       >
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-6xl">
-            Transforming Tomorrow: <span className="sm:text-5xl">Elevate Your World with Cutting-Edge
-            Solutions.</span>
+            <span className="whitespace-nowrap">Transforming Tomorrow{" "}</span> 
+            <br />
+            <span className="sm:text-5xl">
+              Elevating Your World with Cutting-Edge Solutions.
+            </span>
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
             At the intersection of design and technology, our team thrives
