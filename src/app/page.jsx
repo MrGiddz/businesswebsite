@@ -16,10 +16,10 @@ export default function Home() {
         flexProps="flex justify-between items-center"
       >
         <FadeIn className="max-w-3xl">
-          <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-6xl">
-            <span className="whitespace-nowrap">Transforming Tomorrow{" "}</span> 
+          <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-5xl">
+            Transforming Tomorrow{" "}
             <br />
-            <span className="sm:text-5xl">
+            <span className="sm:text-4xl">
               Elevating Your World with Cutting-Edge Solutions.
             </span>
           </h1>
