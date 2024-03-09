@@ -17,10 +17,13 @@ export default function Home() {
       >
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-          Transforming Tomorrow
+            Transforming Tomorrow
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-          At the intersection of design and technology, our team thrives amidst innovation&arpos;s dynamic landscape. Join us to redefine possibilities in digital solutions, education, and telehealth services."
+            At the intersection of design and technology, our team thrives
+            amidst innovation&apos;s dynamic landscape. Join us to redefine
+            possibilities in digital solutions, education, and telehealth
+            services."
           </p>
         </FadeIn>
         <StylizedImage
