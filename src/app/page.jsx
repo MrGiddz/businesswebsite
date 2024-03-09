@@ -16,9 +16,9 @@ export default function Home() {
         flexProps="flex justify-between items-center"
       >
         <FadeIn className="max-w-3xl">
-          <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
+          <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-6xl">
             Transforming Tomorrow: Elevate Your World with Cutting-Edge
-            Solutions
+            Solutions.
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
             At the intersection of design and technology, our team thrives
