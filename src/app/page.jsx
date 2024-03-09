@@ -17,8 +17,8 @@ export default function Home() {
       >
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-6xl">
-            Transforming Tomorrow: Elevate Your World with Cutting-Edge
-            Solutions.
+            Transforming Tomorrow: <span className="sm:text-5xl">Elevate Your World with Cutting-Edge
+            Solutions.</span>
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
             At the intersection of design and technology, our team thrives
@@ -28,6 +28,7 @@ export default function Home() {
           </p>
         </FadeIn>
         <StylizedImage
+          shape={1}
           src={Online}
           sizes="(min-width: 1024px) 41rem, 31rem"
           className="justify-center lg:justify-end"
