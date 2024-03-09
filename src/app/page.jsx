@@ -23,7 +23,7 @@ export default function Home() {
             At the intersection of design and technology, our team thrives
             amidst innovation&apos;s dynamic landscape. Join us to redefine
             possibilities in digital solutions, education, and telehealth
-            services."
+            services.
           </p>
         </FadeIn>
         <StylizedImage
